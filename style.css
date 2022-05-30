@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.table .more-inf {
+.table .more-inf__link {
   font-family: fantasy, cursive;
 }
 
@@ -39,7 +39,7 @@
   flex-grow: 1
 }
 
-.task-row-wrapper {
+.task-row__wrapper {
   display: flex;
 }
 
